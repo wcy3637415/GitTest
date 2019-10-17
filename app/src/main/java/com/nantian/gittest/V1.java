@@ -5,6 +5,6 @@ package com.nantian.gittest;
  **/
 public class V1 {
 
-    private String aa;
+    private String bbcc;
 
 }
