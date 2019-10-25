@@ -20,5 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("我再测试回滚");
 
+        System.out.println("本地测试冲突");
+
     }
 }
