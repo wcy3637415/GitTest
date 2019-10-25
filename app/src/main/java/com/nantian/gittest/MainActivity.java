@@ -18,10 +18,9 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("测试回滚");
 
-        System.out.println("我再测试回滚");
+        //
+        System.out.println("remote测试冲突");
         
-        ////
-        System.out.println("测试冲突，什么鬼");
         
 
     }
