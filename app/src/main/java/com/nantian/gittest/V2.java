@@ -5,6 +5,7 @@ package com.nantian.gittest;
  **/
 public class V2 {
 
+    String aa = "aa";
 
 
 
