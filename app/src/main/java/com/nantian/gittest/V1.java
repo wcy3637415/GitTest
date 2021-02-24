@@ -6,5 +6,6 @@ package com.nantian.gittest;
 public class V1 {
 
     private String bbbb;
+    private String c;
 
 }
